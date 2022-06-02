@@ -3,12 +3,12 @@
 ![styles](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![styles](https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=json&logoColor=white)
 
-# Aplicación Angular - Acceso a Pagina restringida con Auth0 
+# Aplicación Angular - Login tradicional con firebase 
 
-Proyecto login de acceso a página restringida con uso de Guards y Auth0, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0, Typescript, Bootstrap 4, Auth0.
+Proyecto login de acceso con uso de firebase, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9, Typescript, Bootstrap 4, Auth0.
 
 
-[DEMO](https://github.com/rgomez2978/angular-login-auth0-app)
+[DEMO](https://rgomez2978.github.io/angular-login-tradicional-firebase/)
 
 ## Instalación de Librerias
 
@@ -29,7 +29,7 @@ A continuación se indican las librerias necesarias para la ejecución del proye
 
 Ejecute el comando `ng build` para exportar el proyecto. Al exportar el proyecto se almacenarán en el directorio `docs/`. Utilice el flag `--base-href` para exportar hacia produccion.
 
-    ng build --base-href=https://github.com/rgomez2978/angular-login-auth0-app/
+    ng build --base-href=https://rgomez2978.github.io/angular-login-tradicional-firebase//
 
 
 
@@ -37,7 +37,7 @@ Ejecute el comando `ng build` para exportar el proyecto. Al exportar el proyecto
 
 Ejecute el comando `ng deploy` para exportar el proyecto. Al exportar el proyecto se almacenarán en el directorio `docs/`. Utilice el flag `--base-href` para exportar hacia produccion.
 
-    ng deploy --base-href=https://github.com/rgomez2978/angular-login-auth0-app/
+    ng deploy --base-href=https://rgomez2978.github.io/angular-login-tradicional-firebase//
 
 
 
