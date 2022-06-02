@@ -1,11 +1,7 @@
-# LoginApp
-
-Este es un pequeño repositorio para un ejercicio que estoy haciendo.
-
 ![styles](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![styles](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![styles](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![styles](https://img.shields.io/badge/Auth0-gray?style=for-the-badge&logo=json&logoColor=white)
+![styles](https://img.shields.io/badge/Firebase-gray?style=for-the-badge&logo=json&logoColor=white)
 
 # Aplicación Angular - Acceso a Pagina restringida con Auth0 
 
