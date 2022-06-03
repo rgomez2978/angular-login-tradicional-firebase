@@ -5,7 +5,7 @@
 
 # Aplicación Angular - Login tradicional con firebase 
 
-Proyecto login de acceso con uso de firebase, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9, Typescript, Bootstrap 4, Auth0.
+Proyecto login de acceso con uso de firebase, Elaborado en [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9, Typescript, Bootstrap 4, Firebase.
 
 
 [DEMO](https://rgomez2978.github.io/angular-login-tradicional-firebase/)
